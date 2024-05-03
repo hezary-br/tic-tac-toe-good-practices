@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "arrowParens": "avoid",
+  "singleAttributePerLine": false,
+  "printWidth": 110,
+  "trailingComma": "es5",
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ]
+}
